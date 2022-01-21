@@ -1,2 +1,2 @@
 # HER-Habit-Enforcer-Remodelled
-A habit tracker app meant to help you break or build a habit, centered around percentage based goals rather than a make or break approach towards habit building.
+![HER_banner](https://user-images.githubusercontent.com/80390361/150568851-1ac82fc6-2b24-4eac-9f73-ee7f6711b1ce.png)
